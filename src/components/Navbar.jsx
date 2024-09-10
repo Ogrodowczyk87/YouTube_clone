@@ -11,9 +11,10 @@ const Navbar = () => (
         sx={{ position: 'sticky', background: '#000', top: 0, justifyContent: 'space-between' }}
     >
         <Link to="./" style={{ display: 'flex', alignItems: 'center' }}>
-        <img src={logo} alt="logo" height={45} />
+            <img src={logo} alt="logo" height={45} />
         </Link>
     </Stack>
 )
+//koment
 
 export default Navbar;
