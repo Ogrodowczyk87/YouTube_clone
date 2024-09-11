@@ -15,6 +15,6 @@ const Navbar = () => (
         </Link>
     </Stack>
 )
-//koment  sdasa
+
 
 export default Navbar;
